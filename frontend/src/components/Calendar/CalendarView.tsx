@@ -35,7 +35,7 @@ export function CalendarView({ onDateSelect }: CalendarViewProps) {
   const setCurrentMonth = useJournalStore((s) => s.setCurrentMonth);
   const setViewDate = useJournalStore((s) => s.setViewDate);
   const viewDate = useJournalStore((s) => s.viewDate);
-  const dotDatesLoading = useJournalStore((s) => s.dotDatesLoading);
+  
 
   const handleChange = (value: CalendarValue) => {
     const date = Array.isArray(value) ? value[0] : value;
