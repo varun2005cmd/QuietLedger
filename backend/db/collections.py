@@ -1,0 +1,2 @@
+USERS_COLLECTION = "users"
+ENTRIES_COLLECTION = "entries"
