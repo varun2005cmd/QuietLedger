@@ -2,9 +2,9 @@
 
 A minimal, private-first digital journaling web app focused on gratitude and emotional clarity.
 
-**Live links** (fill in after deployment)
-- Frontend: `https://your-app.vercel.app`
-- Backend: `https://quietledger-api.onrender.com`
+**Live links** 
+- Frontend: `https://quiet-ledger-rose.vercel.app`
+- Backend: `https://quietledger-h1wu.onrender.com/health`
 
 ---
 
